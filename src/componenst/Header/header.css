@@ -19,9 +19,9 @@ header {
     background-color: rgba(0, 0, 0, 0.582);
     width: 230px;
     height: 350px;
-    padding: 12rem 1rem 0rem 1rem;
+    padding: 13rem 1rem 0rem 1rem;
     border-radius: 50px;
-    font-size: 30px;
+    font-size: 25px;
     position: absolute;
     color: #fff;
     text-decoration: none;
@@ -32,3 +32,4 @@ header {
     text-shadow: -2px -2px 3px black;
     transition: 0.3s;
   }
+
