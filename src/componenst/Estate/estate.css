@@ -1,0 +1,31 @@
+.container {
+    width: 1000px;
+    margin: 3rem auto;
+}
+
+h1 {
+    text-align: center;
+    margin: 1rem;
+}
+
+p {
+    text-align: justify;
+    margin: 10px;
+    font-size: 20px;
+}
+
+.info {
+    background-color: rgba(61, 61, 61, 0.374);
+    padding: 1rem;
+    border-radius: 1rem;
+    text-align: center;
+    margin: 1rem auto;
+    font-weight: 800;
+}
+
+img {
+    border-radius: 1rem;
+    margin: 1rem auto;
+    align-items: center;
+    width: 1000px;
+}
